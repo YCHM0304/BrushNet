@@ -9,7 +9,7 @@ deps = {
     "filelock": "filelock",
     "flax": "flax>=0.4.1",
     "hf-doc-builder": "hf-doc-builder>=0.3.0",
-    "huggingface-hub": "huggingface-hub",
+    "huggingface-hub": "huggingface-hub>=0.23.0,<0.26",
     "requests-mock": "requests-mock==1.10.0",
     "importlib_metadata": "importlib_metadata",
     "invisible-watermark": "invisible-watermark>=0.2.0",
@@ -40,6 +40,6 @@ deps = {
     "tensorboard": "tensorboard",
     "torch": "torch>=1.4",
     "torchvision": "torchvision",
-    "transformers": "transformers>=4.25.1",
+    "transformers": "transformers>=4.25.1,<4.31",
     "urllib3": "urllib3<=2.0.0",
 }
