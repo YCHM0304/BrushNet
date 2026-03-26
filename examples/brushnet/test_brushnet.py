@@ -5,7 +5,7 @@ import numpy as np
 from PIL import Image
 
 # choose the base model here
-base_model_path = "data/ckpt/realisticVisionV60B1_v51VAE"
+base_model_path = "data/ckpt/stable-diffusion-v1-5"
 # base_model_path = "runwayml/stable-diffusion-v1-5"
 
 # input brushnet ckpt path

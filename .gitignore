@@ -164,6 +164,8 @@ tags
 
 # DS_Store (MacOS)
 .DS_Store
+.DS_Store?
+._*
 
 # RL pipelines may produce mp4 outputs
 *.mp4
@@ -176,3 +178,9 @@ tags
 
 # wandb
 wandb
+
+# local collaboration instructions
+AGENTS.md
+
+# local generated outputs
+output.png
